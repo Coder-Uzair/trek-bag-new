@@ -1,1 +1,1 @@
-# trek-bag-new
+# Starter for the Trekbag project
